@@ -1,22 +1,7 @@
-name="lista de pedidos"
-url="https://www.mediafire.com/file/o7lg4tytbbufmc5/video.zip/file"
-iconimage="https://i.pinimg.com/1200x/a8/c8/e9/a8c8e93d3671081a63d8982f7f6b19f3.jpg"
-fanart=""
-description="Os campeões favoritos dos fãs – agora acompanhados pelo próprio Johnny Cage – são colocados uns contra os outros numa sangrenta e derradeira batalha, sem regras ou limites, para derrotar o governo sombrio de Shao Kahn."
+name="A Maldição de Chucky (2013)"
+url="https://www.mediafire.com/file/5luxakkcifwyyf1/"
+iconimage="https://image.tmdb.org/t/p/original/uR9Pa7yed4fL73oxqd0xW3K1gDH.jpg"
+fanart="https://image.tmdb.org/t/p/original/jAZ0hMGVgb5beOXy20iU49Cr3RQ.jpg"
+description="O boneco possuído por um assassino sádico está de volta, desta vez para aterrorizar uma jovem presa a uma cadeira de rodas e a sua família."
 skin_id="plugin.video.hidratuxedo"
-
-name="lista de filmes top 10 1.0"
-url="https://www.mediafire.com/file/z3p6lpku2u7a4da/filmes+top10-1.0.zip/file"
-iconimage="https://raw.githubusercontent.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/refs/heads/main/top%20filmes.png"
-fanart=""
-description="Os Maiores Clássicos de Todos os Tempos Baseado no consenso mundial de críticos e especialistas do cinema:"
-skin_id="top10"
-
-name="Obsessão"
-url="https://www.mediafire.com/file/8mybm6y56xxl5ug"
-iconimage="https://image.tmdb.org/t/p/original/yhtt7IdzjJ6Vwh1AcG54QFYPtwf.jpg"
-fanart="https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
-description="Sem grandes pretensões, um romântico incurável compra um brinquedo que promete realizar desejos únicos. Ele quebra o artefato misterioso enquanto pede para conquistar a crush e consegue exatamente o que desejava, mas descobre que a consequência é sinistra."
-skin_id="top10"
-
 
