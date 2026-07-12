@@ -5,3 +5,10 @@ fanart="https://image.tmdb.org/t/p/original/qbxoEhlxNcyr7GjG2SXTShWn32m.jpg"
 description="Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai, cinco condenados à pena de morte partem para Tóquio para acabar com ele."
 skin_id=""
 
+name="IT: Bem-Vindos a Derry (2025)"
+url="https://www.mediafire.com/file/vobzsuo7ez6a6zu"
+iconimage="https://image.tmdb.org/t/p/original/gMTfrLvrDaD0zrhpLZ7zXIIpKfJ.jpg"
+fanart="https://image.tmdb.org/t/p/original/2746UvsbkZINd873Yd3o3TxOwCP.jpg"
+description="Durante as férias de 1958, em uma pacata cidadezinha chamada Derry, um grupo de sete amigos começa a ver coisas bizarras. Um conta que viu um palhaço, outro que viu uma múmia. Finalmente, acabam descobrindo que estavam todos vendo a mesma coisa: um ser sobrenatural e maligno que pode assumir várias formas. Ele mesmo. O Pennywise."
+skin_id=""
+
