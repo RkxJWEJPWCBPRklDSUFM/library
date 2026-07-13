@@ -26,3 +26,10 @@ fanart="https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg"
 description="Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no "Mundo dos Demônios", um misterioso Majin chamado Glorio aparece para eles."
 skin_id=""
 
+name="Alien: Earth (2025)"
+url="https://www.mediafire.com/file/ysqvigq9ja70bjf"
+iconimage="https://image.tmdb.org/t/p/original/kGbG5qlZrQzdYxpGYhzAChvFp5l.jpg"
+fanart="https://image.tmdb.org/t/p/original/25g7mthXoJFcNZhAKz0evk17Bsx.jpg"
+description="Quando uma misteriosa nave espacial cai na Terra, uma jovem e um grupo desorganizado de soldados táticos fazem uma descoberta fatídica que os coloca cara a cara com a maior ameaça ao planeta."
+skin_id=""
+
