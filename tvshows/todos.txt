@@ -12,3 +12,10 @@ fanart="https://image.tmdb.org/t/p/original/2746UvsbkZINd873Yd3o3TxOwCP.jpg"
 description="Durante as férias de 1958, em uma pacata cidadezinha chamada Derry, um grupo de sete amigos começa a ver coisas bizarras. Um conta que viu um palhaço, outro que viu uma múmia. Finalmente, acabam descobrindo que estavam todos vendo a mesma coisa: um ser sobrenatural e maligno que pode assumir várias formas. Ele mesmo. O Pennywise."
 skin_id=""
 
+name="A Casa do Dragão (2022)"
+url="https://www.mediafire.com/file/qtaj33nhkioke8s"
+iconimage="https://image.tmdb.org/t/p/original/oKJDm4QCKbp6mR4FnxXrFlPJP8Y.jpg"
+fanart="https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
+description="200 anos antes dos eventos de "Game of Thrones", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen."
+skin_id=""
+
