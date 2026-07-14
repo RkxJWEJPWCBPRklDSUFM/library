@@ -14,6 +14,13 @@ fanart="https://image.tmdb.org/t/p/original/25g7mthXoJFcNZhAKz0evk17Bsx.jpg"
 description="Quando uma misteriosa nave espacial cai na Terra, uma jovem e um grupo desorganizado de soldados táticos fazem uma descoberta fatídica que os coloca cara a cara com a maior ameaça ao planeta."
 skin_id=""
 
+name="Avatar: O Último Mestre do Ar (2024)"
+url="https://www.mediafire.com/file/0yev4ovq7lw5fow"
+iconimage="https://image.tmdb.org/t/p/original/zCz483fU94RxRt1gdGW1rxQkcID.jpg"
+fanart="https://image.tmdb.org/t/p/original/u62XtaV8Iski2CgAUM8Yp0ZgKxD.jpg"
+description="Um garoto conhecido como o Avatar precisa dominar os quatro poderes elementares para salvar um mundo em guerra e enfrentar um inimigo implacável.."
+skin_id=""
+
 <!-- SERIES LETRA B INCIAL -->
 
 name="Baki - O Campeão (2018)"
