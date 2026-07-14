@@ -82,6 +82,13 @@ skin_id=""
 
 <!-- SERIES LETRA O INCIAL -->
 
+name="Origem (2022)"
+url="https://www.mediafire.com/file/drtb8zylaya2oz9"
+iconimage="https://image.tmdb.org/t/p/original/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg"
+fanart="https://image.tmdb.org/t/p/original/micuMAg5HBeg6drq2InyUuD2iXf.jpg"
+description="Desvende o mistério de uma cidade no centro dos EUA. Enquanto os moradores lutam para manter um senso de normalidade, eles também devem sobreviver às ameaças da floresta ao redor, incluindo as criaturas aterrorizantes que surgem quando o sol se põe."
+skin_id=""
+
 <!-- SERIES LETRA P INCIAL -->
 
 <!-- SERIES LETRA Q INCIAL -->
