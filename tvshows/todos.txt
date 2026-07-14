@@ -7,6 +7,13 @@ fanart="https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
 description="200 anos antes dos eventos de "Game of Thrones", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen."
 skin_id=""
 
+name="A Dama (2026)"
+url="https://www.mediafire.com/file/h5diq2i5gzpwk25"
+iconimage="https://image.tmdb.org/t/p/original/gIMB0HGnztNwdWln7xFR6vkhbzo.jpg"
+fanart="https://image.tmdb.org/t/p/original/vpNqo2Uvk8GvnIIubc7ghVySbMg.jpg"
+description="Camareira real Jane Andrews saiu da pobreza e chegou ao palácio, até que uma condenação por homicídio acabou com seu conto de fadas."
+skin_id=""
+
 name="Alien: Earth (2025)"
 url="https://www.mediafire.com/file/ysqvigq9ja70bjf"
 iconimage="https://image.tmdb.org/t/p/original/kGbG5qlZrQzdYxpGYhzAChvFp5l.jpg"
