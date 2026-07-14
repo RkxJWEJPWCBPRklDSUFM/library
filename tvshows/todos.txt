@@ -88,6 +88,13 @@ skin_id=""
 
 <!-- SERIES LETRA R INCIAL -->
 
+name="Rick e Morty (2013)"
+url="https://www.mediafire.com/file/ed8cyphlk099s7f"
+iconimage="https://image.tmdb.org/t/p/original/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg"
+fanart="https://image.tmdb.org/t/p/original/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg"
+description="O brilhante cientista beberrão Rick sequestra Morty, seu neto aborrescente, para viver loucuras em outros mundos e dimensões alternativas."
+skin_id=""
+
 <!-- SERIES LETRA S INCIAL -->
 
 <!-- SERIES LETRA T INCIAL -->
