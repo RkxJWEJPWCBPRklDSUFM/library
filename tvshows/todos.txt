@@ -89,6 +89,13 @@ fanart="https://image.tmdb.org/t/p/original/micuMAg5HBeg6drq2InyUuD2iXf.jpg"
 description="Desvende o mistério de uma cidade no centro dos EUA. Enquanto os moradores lutam para manter um senso de normalidade, eles também devem sobreviver às ameaças da floresta ao redor, incluindo as criaturas aterrorizantes que surgem quando o sol se põe."
 skin_id=""
 
+name="O Silo (2023)"
+url="https://www.mediafire.com/file/cxjfsrolg08cswl"
+iconimage="https://image.tmdb.org/t/p/original/cxB16Cc7xZuqWgNDo7QlqLMlinu.jpg"
+fanart="https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
+description="Num mundo futuro tóxico e em ruínas, milhares de pessoas vivem num gigantesco silo subterrâneo. Após a quebra de uma regra fundamental pelo xerife e a misteriosa morte de alguns residentes, a engenheira Juliette Nichols começa a desvendar segredos chocantes e a verdade sobre o silo."
+skin_id=""
+
 <!-- SERIES LETRA P INCIAL -->
 
 <!-- SERIES LETRA Q INCIAL -->
