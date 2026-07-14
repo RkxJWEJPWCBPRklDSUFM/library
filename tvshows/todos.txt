@@ -50,6 +50,13 @@ skin_id=""
 
 <!-- SERIES LETRA E INCIAL -->
 
+name="Espíritos na Escola (2023)"
+url="https://www.mediafire.com/file/advwoqvgsgehrl4"
+iconimage="https://image.tmdb.org/t/p/original/y3mmy2IJvLu7InRlXqGtraIB19y.jpg"
+fanart="https://image.tmdb.org/t/p/original/rwlV11hoVMfMDMFEZk4000zNfBI.jpg"
+description="Uma adolescente presa na vida após a morte decide investigar seu desaparecimento com um grupo de outros alunos que também estão presos no limbo em sua escola."
+skin_id=""
+
 <!-- SERIES LETRA G INCIAL -->
 
 <!-- SERIES LETRA H INCIAL -->
