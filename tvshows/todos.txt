@@ -30,22 +30,22 @@ fanart="https://image.tmdb.org/t/p/original/qbxoEhlxNcyr7GjG2SXTShWn32m.jpg"
 description="Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai, cinco condenados à pena de morte partem para Tóquio para acabar com ele."
 skin_id=""
 
-name="Dragon Ball DAIMA (2024)"
-url="https://www.mediafire.com/file/if3vanivwo4eu1v"
-iconimage="https://image.tmdb.org/t/p/original/qlLJvJO8rsltmnWWbKgT13hP90I.jpg"
-fanart="https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg"
-description="Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no "Mundo dos Demônios", um misterioso Majin chamado Glorio aparece para eles."
+name="BEASTARS - O Lobo Bom (2019)"
+url="https://www.mediafire.com/file/fcqdvjcx3qkv6y8"
+iconimage="https://image.tmdb.org/t/p/original/jJHykaBex66D01wlfPx0tcyEQ8E.jpg"
+fanart="https://image.tmdb.org/t/p/original/4xvQGRIJpPEDf7HQdF0JkBVsmoX.jpg"
+description="Em um mundo onde convivem animais de todo tipo, um lobo manso começa a descobrir seus instintos predatórios justamente quando acontece um assassinato na escola."
 skin_id=""
 
 <!-- SERIES LETRA C INCIAL -->
 
 <!-- SERIES LETRA D INCIAL -->
 
-name="BEASTARS - O Lobo Bom (2019)"
-url="https://www.mediafire.com/file/fcqdvjcx3qkv6y8"
-iconimage="https://image.tmdb.org/t/p/original/jJHykaBex66D01wlfPx0tcyEQ8E.jpg"
-fanart="https://image.tmdb.org/t/p/original/4xvQGRIJpPEDf7HQdF0JkBVsmoX.jpg"
-description="Em um mundo onde convivem animais de todo tipo, um lobo manso começa a descobrir seus instintos predatórios justamente quando acontece um assassinato na escola."
+name="Dragon Ball DAIMA (2024)"
+url="https://www.mediafire.com/file/if3vanivwo4eu1v"
+iconimage="https://image.tmdb.org/t/p/original/qlLJvJO8rsltmnWWbKgT13hP90I.jpg"
+fanart="https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg"
+description="Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no "Mundo dos Demônios", um misterioso Majin chamado Glorio aparece para eles."
 skin_id=""
 
 <!-- SERIES LETRA E INCIAL -->
