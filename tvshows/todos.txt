@@ -49,6 +49,7 @@ url="https://www.mediafire.com/file/ur696t86s57u6s4"
 iconimage="https://image.tmdb.org/t/p/original/2XL1XAkk4ZGUmtbc8YDfWG7LX24.jpg"
 fanart="https://image.tmdb.org/t/p/original/eF7DaPaNJyIs1cQQJ0ECIc7I11z.jpg"
 description="Sticky Fingaz é o meio-homem, meio-vampiro imortal, que usa os seus poderes e capacidades sobre-humanas para combater corajosamente as demoníacas criaturas da noite, numa sangrenta cruzada para impedir o seu domínio sobre a humanidade.
+
 Baseada no herói da Marvel e na popular trilogia cinematográfica, "Blade: A Série" garante a continuidade com os filmes, levando o protagonista para outras histórias e criando novas personagens. Tudo começa quando Blade se instala em Detroit, para investigar a vampírica Casa de Chthon. Pelo caminho, forma uma difícil aliança com Krista Starr , uma antiga veterana do exército, que se vê envolvida no mundo dos vampiros ao investigar a morte do irmão gémeo."
 skin_id=""
 
