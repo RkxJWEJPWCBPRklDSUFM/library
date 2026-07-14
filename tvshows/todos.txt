@@ -46,6 +46,13 @@ skin_id=""
 
 <!-- SERIES LETRA C INCIAL -->
 
+name="Cobra Kai (2018)"
+url="https://www.mediafire.com/file/7a32nk8qh7c9810"
+iconimage="https://image.tmdb.org/t/p/original/5qMupAz4A9EN5Rutrkmov45mNXZ.jpg"
+fanart="https://image.tmdb.org/t/p/original/g1PXzQvUJjIBM70vdfYrzaM0Jxb.jpg"
+description="Nesta aclamada série que é continuação dos filmes Karatê Kid, Daniel e Johnny retomam a rivalidade dos tempos de escola."
+skin_id=""
+
 <!-- SERIES LETRA D INCIAL -->
 
 name="Dragon Ball DAIMA (2024)"
