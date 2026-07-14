@@ -7,6 +7,13 @@ fanart="https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
 description="200 anos antes dos eventos de "Game of Thrones", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen."
 skin_id=""
 
+name="A Luz do Futuro (2026)"
+url="https://www.mediafire.com/file/p902p5g7ln3mgxk"
+iconimage="https://image.tmdb.org/t/p/original/nnqscYuGNJKdM62PAxTYEf8Z9cm.jpg"
+fanart="https://image.tmdb.org/t/p/original/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg"
+description="Em um passado alternativo, uma dupla improvável se une para procurar um catálogo perdido capaz de levar eletricidade às ruas esfumaçadas de Kyoto."
+skin_id=""
+
 name="A Dama (2026)"
 url="https://www.mediafire.com/file/h5diq2i5gzpwk25"
 iconimage="https://image.tmdb.org/t/p/original/gIMB0HGnztNwdWln7xFR6vkhbzo.jpg"
