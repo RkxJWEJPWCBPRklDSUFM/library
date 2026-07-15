@@ -67,6 +67,13 @@ fanart="https://image.tmdb.org/t/p/original/g1PXzQvUJjIBM70vdfYrzaM0Jxb.jpg"
 description="Nesta aclamada série que é continuação dos filmes Karatê Kid, Daniel e Johnny retomam a rivalidade dos tempos de escola."
 skin_id=""
 
+name="Cidade das Estrelas (2026)"
+url="https://www.mediafire.com/file/hx8ei9xp5rqs392"
+iconimage="https://image.tmdb.org/t/p/original/1YObhpxCn59eOr53devSk4Ohgay.jpg"
+fanart="https://image.tmdb.org/t/p/original/1FKMjElFJxgG3vPN7Sp5k8oMmo2.jpg"
+description="Entre em um capítulo eletrizante inspirado em For All Mankind. Mesmo universo alternativo. Nova perspectiva: a da União Soviética. Atravesse a Cortina de Ferro com os cosmonautas, engenheiros e agentes de inteligência que arriscaram tudo na corrida pela Lua."
+skin_id=""
+
 <!-- SERIES LETRA D INCIAL -->
 
 name="Dragon Ball DAIMA (2024)"
