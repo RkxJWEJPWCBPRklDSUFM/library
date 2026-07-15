@@ -118,7 +118,7 @@ skin_id=""
 
 <!-- SERIES LETRA L INCIAL -->
 
-name="Avatar: O Último Mestre do Ar (2024)"
+name="Money Heist (2017)"
 url="https://www.mediafire.com/file/gekd04ppwjbtazr"
 iconimage="https://image.tmdb.org/t/p/original/qUmlmYWx3WndM01DHOTrmeiklVW.jpg"
 fanart="https://image.tmdb.org/t/p/original/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg"
