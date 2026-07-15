@@ -118,6 +118,13 @@ skin_id=""
 
 <!-- SERIES LETRA L INCIAL -->
 
+name="Avatar: O Último Mestre do Ar (2024)"
+url="https://www.mediafire.com/file/gekd04ppwjbtazr"
+iconimage="https://image.tmdb.org/t/p/original/qUmlmYWx3WndM01DHOTrmeiklVW.jpg"
+fanart="https://image.tmdb.org/t/p/original/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg"
+description="Um homem misterioso que atende pelo nome de El Profesor, está planejando o maior assalto do século. A fim de realizar o ambicioso plano ele recruta uma gangue de oito pessoas com certas habilidades que não tem nada a perder. O objetivo é infiltrar na Casa da Moeda, de modo que eles possam imprimir 2,4 bilhões de euros. Para fazer isso eles precisam de onze dias de reclusão, durante o qual eles vão ter que lidar com sessenta e sete reféns e as forças da Polícia de Elite, com cenas de muita ação e planos brilhantes de El Profesor."
+skin_id=""
+
 <!-- SERIES LETRA M INCIAL -->
 
 <!-- SERIES LETRA N INCIAL -->
