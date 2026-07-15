@@ -14,6 +14,13 @@ fanart="https://image.tmdb.org/t/p/original/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg"
 description="Em um passado alternativo, uma dupla improvável se une para procurar um catálogo perdido capaz de levar eletricidade às ruas esfumaçadas de Kyoto."
 skin_id=""
 
+name="A Casa dos Espíritos (2026)"
+url=""
+iconimage="https://image.tmdb.org/t/p/original/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg"
+fanart="https://image.tmdb.org/t/p/original/aX2MN3TweeODXA8xrciMWogL9A2.jpg"
+description="A Casa dos Espíritos é uma saga familiar de 8 episódios que mostra as vidas de mulheres revolucionárias e resilientes - Clara, a avó; Blanca, a filha; e Alba, a neta - ao longo de meio século em um país sul-americano remoto e conservador forjado por desastres, conflito de classes e magia."
+skin_id=""
+
 name="A Dama (2026)"
 url="https://www.mediafire.com/file/h5diq2i5gzpwk25"
 iconimage="https://image.tmdb.org/t/p/original/gIMB0HGnztNwdWln7xFR6vkhbzo.jpg"
