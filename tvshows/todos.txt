@@ -51,6 +51,13 @@ fanart="https://image.tmdb.org/t/p/original/qbxoEhlxNcyr7GjG2SXTShWn32m.jpg"
 description="Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai, cinco condenados à pena de morte partem para Tóquio para acabar com ele."
 skin_id=""
 
+name="BLACK TORCH (2026)"
+url="https://www.mediafire.com/file/om24sv0dyzljm8g"
+iconimage="https://image.tmdb.org/t/p/original/iWTBUy7tyJVnzSLFuV6os5G0J04.jpg"
+fanart="https://image.tmdb.org/t/p/original/goTFoBxSyLybVvlGa2Ke9uTchdF.jpg"
+description="Jiro Azuma não é um estudante qualquer. Descendente de ninjas e treinado na antiga arte marcial dos shinobis, também é capaz de se comunicar com os animais. Após um encontro misterioso com um gato ferido chamado Rago, Jiro descobre que o felino é, na verdade, a lendária estrela negra da perdição! Ao lado do serviço secreto, eles enfrentam mononokes que buscam explorar os poderes de Rago."
+skin_id=""
+
 name="Blade: A Série (2006)"
 url="https://www.mediafire.com/file/ur696t86s57u6s4"
 iconimage="https://image.tmdb.org/t/p/original/2XL1XAkk4ZGUmtbc8YDfWG7LX24.jpg"
