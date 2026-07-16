@@ -14,6 +14,13 @@ fanart="https://image.tmdb.org/t/p/original/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg"
 description="Em um passado alternativo, uma dupla improvável se une para procurar um catálogo perdido capaz de levar eletricidade às ruas esfumaçadas de Kyoto."
 skin_id=""
 
+name="Among Us (2026)"
+url="https://www.mediafire.com/file/k485z0cxy2i6ous"
+iconimage="https://image.tmdb.org/t/p/original/zQPnH87FXB6MEwRIy2xfhT41lq9.jpg"
+fanart="https://image.tmdb.org/t/p/original/iVDwwERuFEUWZ6f9pEATuKYt1WJ.jpg"
+description="Os excêntricos tripulantes de uma nave que transporta sucata pela galáxia precisam descobrir quem é o impostor entre eles antes de serem vítimas dos planos maliciosos dele. Baseada no fenômeno mundial dos videogames da Innersloth, de mesmo nome."
+skin_id=""
+
 name="A Casa dos Espíritos (2026)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg"
