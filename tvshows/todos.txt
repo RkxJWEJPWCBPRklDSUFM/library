@@ -1,3 +1,11 @@
+
+name="100 Code (2015)"
+url="https://www.mediafire.com/file/sibsp1zb5gt8gml"
+iconimage="https://image.tmdb.org/t/p/original/tg9fpeSvD8QvPOjt1ZASz3GkqT.jpg"
+fanart="https://image.tmdb.org/t/p/original/nG93f33al8Zq2tQ3d8oMiQfJlij.jpg"
+description="Na história, jovens loiras de olhos azuis foram assassinadas ao longo dos últimos doze meses. Tommy Conley, um detetive de Nova Iorque, é enviado à Suécia para observar e aconselhar a polícia local nas investigações. Ele se une ao sueco Mikael Eklund, um veterano da homicídios que trabalha de acordo com as regras. Extremamente nacionalista, Mikael não vê com bons olhos a presença de Conley, criticando a cultura americana sempre que pode. Apesar dos dois não se suportarem, eles precisam encontrar uma forma de trabalhar juntos."
+skin_id=""
+
 <!-- SERIES LETRA A INCIAL -->
 
 name="A Casa do Dragão (2022)"
