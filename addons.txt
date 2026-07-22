@@ -1,6 +1,6 @@
 
-name="pré-configuração"
-url="https://www.mediafire.com/file/n1zyw65mesn3l8i/Pre.zip/file"
+name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]"
+url="https://www.mediafire.com/file/0uf67yg64gw0kq6"
 iconimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmI47RykhO9akRKvEVqVZ86iSj8PeUzzIIXQ&s"
 fanart=""
 description="Você tiver algum problema no elemento baixa essa pre  configuração e veja se resolve."
