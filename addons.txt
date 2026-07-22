@@ -1,9 +1,9 @@
 
-name="BRAZUCA PLAY"
-url="https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/raw/refs/heads/main/plugin.video.BrazucaPlay.Matrix.zip"
+name="pré-configuração"
+url="https://www.mediafire.com/file/n1zyw65mesn3l8i/Pre.zip/file"
 iconimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmI47RykhO9akRKvEVqVZ86iSj8PeUzzIIXQ&s"
 fanart=""
 description="Você tiver algum problema no elemento baixa essa pre  configuração e veja se resolve."
-addon_id="plugin.video.BrazucaPlay.Matrix"
+skin_id="skin.flixbox"
 
 
