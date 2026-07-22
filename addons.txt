@@ -1,9 +1,9 @@
 
-name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]"
+name="[B][COLOR white]BRAZUCA PLAY34[/COLOR][/B]"
 url="https://raw.githubusercontent.com/boxxml/library/refs/heads/main/plugin.video.BrazucaPlay.Matrix.zip"
 iconimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmI47RykhO9akRKvEVqVZ86iSj8PeUzzIIXQ&s"
 fanart=""
 description="Você tiver algum problema no elemento baixa essa pre  configuração e veja se resolve."
-skin_id="plugin.video.BrazucaPlay.Matrix"
+addon_id="plugin.video.BrazucaPlay.Matrix"
 
 
