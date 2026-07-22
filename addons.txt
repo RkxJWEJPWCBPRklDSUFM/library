@@ -1,5 +1,5 @@
 
-name="[B][COLOR white]BRAZUCA PLAY3[/COLOR][/B]"
+name="[B][COLOR white]BRAZUCA PLAY34[/COLOR][/B]"
 url="https://www.mediafire.com/file/0uf67yg64gw0kq6/plugin.video.BrazucaPlay.Matrix.zip/file"
 iconimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmI47RykhO9akRKvEVqVZ86iSj8PeUzzIIXQ&s"
 fanart=""
