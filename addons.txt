@@ -1,6 +1,5 @@
 
 name="pré-configuração"
-genre="pré-configuração"
 url="https://www.mediafire.com/file/n1zyw65mesn3l8i/Pre.zip/file"
 iconimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmI47RykhO9akRKvEVqVZ86iSj8PeUzzIIXQ&s"
 fanart=""
