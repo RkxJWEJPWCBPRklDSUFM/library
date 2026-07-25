@@ -1,9 +1,0 @@
-
-name="CONFIGURAÇÃO"
-url="https://www.mediafire.com/file/yyimmh5xoi0dxkz/"
-iconimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmI47RykhO9akRKvEVqVZ86iSj8PeUzzIIXQ&s"
-fanart="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLBcS4L646citkB84w7zyRP87pLDP3Jy4mUSzwfU-9dwgXvWrLdjMIWu18&s=10"
-description="SE VOCÊ NÃO QUER TER O TRABALHO DE FAZER CONFIGURAÇÕES COMO POR EXEMPLO INSTALAR REPOSITÓRIOS E O ELEMENTO ATRAVÉS DO ARQUIVO ZIP OU O ENDEREÇO HTTP BAIXE ESSA CONFIGURAÇÃO!"
-skin_id="skin.flixbox"
-
-
